@@ -7,21 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E71032DB2087A18100003736 /* YMCA.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71032DA2087A18100003736 /* YMCA.swift */; };
+		E7111E932088D35A00ACEE7D /* SephoraVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7111E922088D35A00ACEE7D /* SephoraVC.swift */; };
+		E7111E952088D8E800ACEE7D /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7111E942088D8E800ACEE7D /* ShadowView.swift */; };
+		E7111E972088E10900ACEE7D /* MoisturizerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7111E962088E10900ACEE7D /* MoisturizerCell.swift */; };
 		E74EAAB120752C75004498BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EAAB020752C75004498BA /* AppDelegate.swift */; };
-		E74EAAB320752C75004498BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EAAB220752C75004498BA /* ViewController.swift */; };
+		E74EAAB320752C75004498BA /* WallgreensController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EAAB220752C75004498BA /* WallgreensController.swift */; };
 		E74EAAB620752C75004498BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E74EAAB420752C75004498BA /* Main.storyboard */; };
 		E74EAAB820752C77004498BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E74EAAB720752C77004498BA /* Assets.xcassets */; };
 		E74EAABB20752C77004498BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E74EAAB920752C77004498BA /* LaunchScreen.storyboard */; };
+		E74EAAC6208783FE004498BA /* CircularButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EAAC5208783FE004498BA /* CircularButton.swift */; };
+		E760D3202087AED6009B2B41 /* SalesForce.swift in Sources */ = {isa = PBXBuildFile; fileRef = E760D31F2087AED6009B2B41 /* SalesForce.swift */; };
+		E760D3222087B40E009B2B41 /* GrayBorderColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E760D3212087B40E009B2B41 /* GrayBorderColor.swift */; };
+		E760D3242087B5B0009B2B41 /* RadiusButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E760D3232087B5B0009B2B41 /* RadiusButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E71032DA2087A18100003736 /* YMCA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YMCA.swift; sourceTree = "<group>"; };
+		E7111E922088D35A00ACEE7D /* SephoraVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SephoraVC.swift; sourceTree = "<group>"; };
+		E7111E942088D8E800ACEE7D /* ShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
+		E7111E962088E10900ACEE7D /* MoisturizerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoisturizerCell.swift; sourceTree = "<group>"; };
 		E74EAAAD20752C75004498BA /* Zytech Apps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Zytech Apps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E74EAAB020752C75004498BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E74EAAB220752C75004498BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E74EAAB220752C75004498BA /* WallgreensController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallgreensController.swift; sourceTree = "<group>"; };
 		E74EAAB520752C75004498BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E74EAAB720752C77004498BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E74EAABA20752C77004498BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E74EAABC20752C77004498BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E74EAAC5208783FE004498BA /* CircularButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButton.swift; sourceTree = "<group>"; };
+		E760D31F2087AED6009B2B41 /* SalesForce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalesForce.swift; sourceTree = "<group>"; };
+		E760D3212087B40E009B2B41 /* GrayBorderColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayBorderColor.swift; sourceTree = "<group>"; };
+		E760D3232087B5B0009B2B41 /* RadiusButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadiusButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +70,46 @@
 		E74EAAAF20752C75004498BA /* Zytech Apps */ = {
 			isa = PBXGroup;
 			children = (
+				E74EAAC4208783A7004498BA /* Model */,
+				E74EAAC3208783A2004498BA /* View */,
+				E74EAAC22087839A004498BA /* Controller */,
 				E74EAAB020752C75004498BA /* AppDelegate.swift */,
-				E74EAAB220752C75004498BA /* ViewController.swift */,
 				E74EAAB420752C75004498BA /* Main.storyboard */,
 				E74EAAB720752C77004498BA /* Assets.xcassets */,
 				E74EAAB920752C77004498BA /* LaunchScreen.storyboard */,
 				E74EAABC20752C77004498BA /* Info.plist */,
 			);
 			path = "Zytech Apps";
+			sourceTree = "<group>";
+		};
+		E74EAAC22087839A004498BA /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E74EAAB220752C75004498BA /* WallgreensController.swift */,
+				E71032DA2087A18100003736 /* YMCA.swift */,
+				E760D31F2087AED6009B2B41 /* SalesForce.swift */,
+				E7111E922088D35A00ACEE7D /* SephoraVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E74EAAC3208783A2004498BA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E74EAAC5208783FE004498BA /* CircularButton.swift */,
+				E760D3212087B40E009B2B41 /* GrayBorderColor.swift */,
+				E760D3232087B5B0009B2B41 /* RadiusButton.swift */,
+				E7111E942088D8E800ACEE7D /* ShadowView.swift */,
+				E7111E962088E10900ACEE7D /* MoisturizerCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E74EAAC4208783A7004498BA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +183,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E74EAAB320752C75004498BA /* ViewController.swift in Sources */,
+				E7111E952088D8E800ACEE7D /* ShadowView.swift in Sources */,
+				E760D3242087B5B0009B2B41 /* RadiusButton.swift in Sources */,
+				E760D3202087AED6009B2B41 /* SalesForce.swift in Sources */,
+				E7111E972088E10900ACEE7D /* MoisturizerCell.swift in Sources */,
+				E74EAAC6208783FE004498BA /* CircularButton.swift in Sources */,
+				E760D3222087B40E009B2B41 /* GrayBorderColor.swift in Sources */,
+				E74EAAB320752C75004498BA /* WallgreensController.swift in Sources */,
+				E7111E932088D35A00ACEE7D /* SephoraVC.swift in Sources */,
 				E74EAAB120752C75004498BA /* AppDelegate.swift in Sources */,
+				E71032DB2087A18100003736 /* YMCA.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +337,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JE8VMAJF52;
 				INFOPLIST_FILE = "Zytech Apps/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -298,6 +355,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JE8VMAJF52;
 				INFOPLIST_FILE = "Zytech Apps/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
